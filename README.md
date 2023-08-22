@@ -16,3 +16,4 @@ Hello, this is my with with my links, about me, and contact info. I have update 
   [![VERSION](https://img.shields.io/badge/VERSION-V1-green?labelColor=gray&style=for-the-badge)]([https://github.com/kingman11211/kingman11211.github.io/releases/tag/v1.0.3](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v2.0.0)
 </details>
 
+https://badgesgenerator.com
