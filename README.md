@@ -13,6 +13,6 @@ Hello, this is my with with my links, about me, and contact info. I have update 
   <summary>Past Versions</summary>
 
   ## Here are the past versions of this site (Only the version updates that show whats new and whats old)
-  [![VERSION](https://img.shields.io/badge/VERSION-V1-green?labelColor=gray&style=for-the-badge)](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v1.0.3)
+  [![VERSION](https://img.shields.io/badge/VERSION-V1-green?labelColor=gray&style=for-the-badge)]([https://github.com/kingman11211/kingman11211.github.io/releases/tag/v1.0.3](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v2.0.0)
 </details>
 
