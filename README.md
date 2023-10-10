@@ -14,7 +14,7 @@ Hello, this is my with with my links, about me, and contact info. I have update 
 
   ## Here are the past versions of this site (Only the version updates that show whats new and whats old)
   
-  [![VERSION](https://img.shields.io/badge/VERSION-V2.0.2-green?style=for-the-badge)](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v2.0.1)
+  [![VERSION](https://img.shields.io/badge/VERSION-V2.0.1-green?style=for-the-badge)](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v2.0.1)
   
   [![VERSION](https://img.shields.io/badge/VERSION-V2-green?style=for-the-badge)](https://github.com/kingman11211/kingman11211.github.io/releases/tag/v2.0.0)
   
